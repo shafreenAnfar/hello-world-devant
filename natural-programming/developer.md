@@ -1,0 +1,1 @@
+User requests a simple mock REST service that outputs "Hello, World!" message.
